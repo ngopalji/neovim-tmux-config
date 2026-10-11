@@ -1,5 +1,5 @@
 # neovim-tmux-config
 
-> **Note:** This is my original setup from college. My current config lives in [ngopalji/dotfiles](https://github.com/ngopalji/dotfiles).
+My OG Neovim + tmux setup from college, for CS coursework and LaTeX homework with VimTeX.
 
-Welcome to my Neovim and tmux configuration repository! These configurations are tailored for my workflow in Computer Science coursework and projects. I compose homeworks in Latex with VimTex, and use the nvim-tmux setup for most of my programming. This setup is custom-built and is continuously being refined.
+Updated and maintained setup: [ngopalji/dotfiles](https://github.com/ngopalji/dotfiles)
